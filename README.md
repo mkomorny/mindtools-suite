@@ -39,3 +39,7 @@ A comprehensive AI-powered cognitive assistance and communication studio featuri
 ## Instructions
 
 See [INSTRUCTIONS.md](./INSTRUCTIONS.md) for setup and configuration instructions.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - see the [LICENSE](./LICENSE) file for details.
