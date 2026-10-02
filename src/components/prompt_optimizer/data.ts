@@ -213,10 +213,10 @@ export const QUICK_START_TEMPLATES: QuickStartTemplate[] = [
   },
   {
     title: "Apology Reply Draft",
-    subtitle: "Polite customer support response",
+    subtitle: "Polite client service response",
     targetModel: "gemini-chat",
     actionMode: "Translation",
-    rawInput: "Draft a warm, extremely polite client support message apologizing for a shipping delay and offering a direct 20% discount coupon for future bookings."
+    rawInput: "Draft a warm, extremely polite client communication message apologizing for a shipping delay and offering a direct 20% discount coupon for future bookings."
   },
   {
     title: "Nature Forest Walk",
